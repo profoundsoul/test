@@ -1,0 +1,18 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "my test pack ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm build"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "linq",
+  "license": "ISC",
+  "repository": { 
+  "type": "Git", 
+  "url": "git+https://github.com/blackwuxin/testdemo.git" 
+  }
+}
